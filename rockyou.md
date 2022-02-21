@@ -9,6 +9,10 @@ Kicking your can all over the place, singin'
 ```
 
 ## Chorus 1
+```text
+We will, we will rock you
+We will, we will rock you
+```
 
 
 ## Verse 2
